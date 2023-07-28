@@ -28,3 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # Pokemon-app
 # Pokemon-app git init git add README.md git commit -m first commit git branch -M main git remote add origin https://github.com/Sukuna18/Pokemon-app.git git push -u origin main
 # Pokemon-app
+# Pokemon-app
